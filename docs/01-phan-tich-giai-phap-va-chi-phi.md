@@ -2,6 +2,7 @@
 ## Phân tích yêu cầu, phương án giải pháp & dự toán chi phí
 
 > Trạng thái: **Đề xuất – chờ quyết định**. Chưa lập trình.
+> **Cập nhật:** hạ tầng chuyển sang Firebase/GCP + domain `littletalk.vhub.id.vn` → xem `02-kien-truc-firebase-gcp.md` (thay thế mục hạ tầng Cloudflare; phần media, sư phạm, mô hình dữ liệu giữ nguyên).
 > Ngày lập: 2026-10-17. Tỷ giá dùng: **1 USD ≈ 26.500 VND** (VCB bán ~26.070 ngày 10/10/2026 + phí thanh toán thẻ quốc tế ~1–3%).
 > Ký hiệu độ tin cậy giá: ✅ nguồn chính thức/nhiều nguồn khớp · ⚠️ nguồn thứ ba, cần kiểm tra lại trên trang giá chính thức trước khi chi tiền.
 
